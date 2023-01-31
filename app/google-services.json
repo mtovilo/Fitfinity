@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003621130453",
+    "project_id": "fitfinity-5cb5b",
+    "storage_bucket": "fitfinity-5cb5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003621130453:android:8ccde9f2d580cc5696c25c",
+        "android_client_info": {
+          "package_name": "ba.sum.fpmoz.fitfinity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003621130453-fggohaue97215puvpgqvf0l3td7nhab5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmJPxeSvyJ91d2R_I0nlUJfFiW0dKZbAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003621130453-fggohaue97215puvpgqvf0l3td7nhab5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
